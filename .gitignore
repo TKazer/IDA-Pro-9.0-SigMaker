@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+/.vs/IDA Pro SigMaker
+/IDA Pro SigMaker/x64
